@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycave",
+        "uuid": 18783764,
+        "checksum": "32sw2"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
